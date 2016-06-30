@@ -1,0 +1,29 @@
+body {
+	height: 100%;
+	width: 500px;
+}
+
+.header {
+	text-align: center;
+	border-bottom-width: 1px; 
+	border-bottom-style: solid;
+	border-bottom-color: black;
+}
+
+.foto {
+	width: 150px;
+	height: 170px;
+}
+
+.learn {
+	border-bottom-width: 1px; 
+	border-bottom-style: solid;
+	border-bottom-color: black;
+}
+
+.kontakt {
+	border-bottom-width: 1px; 
+	border-bottom-style: solid;
+	border-bottom-color: black;
+}
+
